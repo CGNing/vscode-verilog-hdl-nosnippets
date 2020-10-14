@@ -1,16 +1,16 @@
 {
-	"name": "veriloghdl",
-	"displayName": "Verilog-HDL/SystemVerilog/Bluespec SystemVerilog",
-	"description": "Verilog-HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code",
-	"version": "1.3.3",
-	"publisher": "mshr-h",
+	"name": "veriloghdlcgn",
+	"displayName": "Verilog-HDL/SystemVerilog/Bluespec SystemVerilog no sinppets",
+	"description": "Verilog-HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code with no sinppets",
+	"version": "1.3.4",
+	"publisher": "cgn",
 	"homepage": "https://github.com/mshr-h/vscode-verilog-hdl-support",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mshr-h/vscode-verilog-hdl-support.git"
+		"url": "https://github.com/CGNing/vscode-verilog-hdl-nosnippets.git"
 	},
 	"bugs": {
-		"url": "https://github.com/mshr-h/vscode-verilog-hdl-support/issues"
+		"url": "https://github.com/CGNing/vscode-verilog-hdl-nosnippets/issues"
 	},
 	"engines": {
 		"vscode": "^1.46.0"
@@ -251,12 +251,10 @@
 		"@types/mocha": "^2.2.45",
 		"@types/node": "^7.10.11",
 		"@types/vscode": "^1.46.0",
-		"typescript": "^3.9.5",
+		"typescript": "^3.9.7",
 		"vscode-test": "^1.4.0"
-	},
-	"__metadata": {
-		"id": "feb7e3b5-7d35-4f95-a3d2-61eeaa12efa5",
-		"publisherDisplayName": "mshr-h",
-		"publisherId": "fcf32c99-a624-437b-9f47-9333ea128623"
 	}
+
 }
+
+
